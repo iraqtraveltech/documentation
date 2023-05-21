@@ -1,2 +1,2 @@
 # documentation
-a public repository dedicated for the documentation within Iraq Travel Tech  
+a repository dedicated for the documentation within Iraq Travel Tech. Please switch to the wiki tab  
